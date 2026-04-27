@@ -28,7 +28,7 @@ public class Toy {
 
     @Override
     public String toString() {
-        return"name: "+name+"\ncolor: "+color;
+        return"name: "+name+"\ncolor: "+color+"\nprice: "+price;
     }
 }
 
