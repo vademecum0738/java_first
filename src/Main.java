@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("helloworld");
-        System.out.println("homework1");
-
+        Toy toy=new Toy("Chase","brown",20.00);
+        System.out.println(toy);
     }
 }
