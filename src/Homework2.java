@@ -41,3 +41,5 @@ public class Homework2 {
         return"size: "+size+"\nage: "+age+"\ntemperature: "+temperature+"\ndistance: "+distance;
     }
 }
+
+
